@@ -65,11 +65,3 @@ This extension is part of a complete email assistance solution:
 
 ![Extension Demo](images/demo.jpg)
 
-
-## 📄 License
-
-[Your License]
-
----
-
-**Powered by Google Gemini AI** | Not affiliated with Google LLC or Gmail
